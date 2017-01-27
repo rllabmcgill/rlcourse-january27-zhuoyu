@@ -1,4 +1,4 @@
-# The R code includes the following algorithms.
+# The R code includes the following algorithms:
 
 Iterative policy evaluation
  -Jacobi-style algorithm (two array version)
